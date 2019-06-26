@@ -1,2 +1,0 @@
-# timerdemo
-Created with CodeSandbox
